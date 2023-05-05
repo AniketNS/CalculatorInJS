@@ -1,3 +1,3 @@
-#Calculator App In JS
+# Calculator App In JS
 
 A simple calculator app made in JavaScript
